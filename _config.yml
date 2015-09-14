@@ -9,13 +9,13 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /blog/
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://camdenb.github.io/blog/'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
+url:            'http://camdenb.github.io/blog/'
 author:         'camden'
 authorTwitter:  'bearchinski'
 
