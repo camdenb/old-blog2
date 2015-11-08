@@ -12,14 +12,14 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /blog/
-domain_name: 'http://camdenb.github.io/blog/'
+domain_name: 'http://camdenbickel.com/blog/'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://camdenb.github.io/blog/'
-author:         'camden'
+url:            'http://camdenbickel.com/blog/'
+author:         'camden bickel'
 authorTwitter:  'bearchinski'
 
 permalink:       /:year/:title/
