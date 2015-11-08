@@ -2,11 +2,5 @@
     {% if page.url != "/index.html" %}
         <a href="{{ site.baseurl }}"> <span class="arrow">←</span> Posts </a>
     {% endif %}
-
-    {% if page.url != "/about/" %}
-        {% if site.aboutPage %}
-            <a href="http://www.camdenbickel.com/about">About </a>
-        {% endif %}
-    {% endif %}
-    <a class="cta" href="{{ site.baseurl }}feed.xml">Subscribe</a>
+    <a href="{{ site.baseurl }}feed.xml">Subscribe</a>
 </nav>
